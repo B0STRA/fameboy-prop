@@ -6,3 +6,7 @@ includes only the prop for the fameboy
 Streamed prop for GTA FiveM
 
 > Original Model by : [Georg Klein](https://sketchfab.com/kleingeo) used under [CC 4.0 License](https://creativecommons.org/licenses/by/4.0/), changes include collision mesh addition embedded textures, and brand removal. 
+
+
+# Support:
+![Support at md-scripts Discord](https://discord.gg/RVx8nVwcEG)
