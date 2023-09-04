@@ -9,4 +9,6 @@ Streamed prop for GTA FiveM
 
 
 # Support:
-![Support at md-scripts Discord](https://discord.gg/RVx8nVwcEG)
+![Bostra-Development Discord](https://discord.gg/WC6McBQ5r8)
+
+![md-scripts Discord](https://discord.gg/RVx8nVwcEG)
